@@ -49,8 +49,8 @@ Shift Baru  : D
 
 # Screenshot
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/Screenshot 2024-09-25 192730.png" width="19%" alt="Login Page">
-  <img src="assets/Screenshot 2024-09-25 192906.png" width="19%" alt="Register Page">
-  <img src="assets/Screenshot 2024-09-25 192926.png" width="19%" alt="Home Page">
-  <img src="assets/Screenshot 2024-09-25 192932.png" width="19%" alt="About Page">
+  <img src="pertemuan3tugas/assets/Screenshot 2024-09-25 192730.png" width="19%" alt="Login Page">
+  <img src="pertemuan3tugas/assets/Screenshot 2024-09-25 192906.png" width="19%" alt="Register Page">
+  <img src="pertemuan3tugas/assets/Screenshot 2024-09-25 192926.png" width="19%" alt="Home Page">
+  <img src="pertemuan3tugas/assets/Screenshot 2024-09-25 192932.png" width="19%" alt="About Page">
 </div>
