@@ -1,5 +1,3 @@
-# LabMobile3_Abhirama-Rizqi-Pratama_Shift-A
-
 Nama        : Fadhila Galih Maheswara
 Nim         : H1D022007
 Shift Lama  : D  
